@@ -23,6 +23,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 ### Example Datasets
   
 #### Danny has shared with you 3 key datasets for this case study:
+  <img src="https://user-images.githubusercontent.com/47163932/235058705-184cc1fe-afc3-4807-b622-6fcf9557950d.png" width="600" height="400">
 ##### Table 1: sales
   <div>
    The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
