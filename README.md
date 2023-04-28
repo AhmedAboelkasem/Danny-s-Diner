@@ -22,15 +22,17 @@ Danny has provided you with a sample of his overall customer data due to privacy
   
 ### Example Datasets
   
-####Danny has shared with you 3 key datasets for this case study:
+#### Danny has shared with you 3 key datasets for this case study:
 ##### Table 1: sales
   <div>
    The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
    <div/>
+   
 ##### Table 2: menu
   <div>
    The menu table maps the product_id to the actual product_name and price of each menu item.
    <div/>
+   
 ##### Table 3: members
   <div>
   The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
