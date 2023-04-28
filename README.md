@@ -55,4 +55,5 @@ Danny has provided you with a sample of his overall customer data due to privacy
 #### 10- In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 ### And 2 Bonus Questions
-   [sql script](https://github.com/AhmedAboelkasem/Danny-s-Diner/blob/main/dannys_diner.sql)
+   
+#[Solution](https://github.com/AhmedAboelkasem/Danny-s-Diner/blob/main/Case%20Study%20and%20Solutions.pdf))
