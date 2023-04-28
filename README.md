@@ -56,4 +56,4 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 ### And 2 Bonus Questions
    
-#[Solution](https://github.com/AhmedAboelkasem/Danny-s-Diner/blob/main/Case%20Study%20and%20Solutions.pdf))
+# [Solution](https://github.com/AhmedAboelkasem/Danny-s-Diner/blob/main/Case%20Study%20and%20Solutions.pdf)
